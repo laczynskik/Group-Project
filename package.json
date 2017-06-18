@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "s",
   "version": "1.0.0",
   "description": "",
+=======
+  "name": "git_project",
+  "version": "1.0.0",
+  "description": "Git Group Project",
+>>>>>>> d407d2c45347e6fa904a108500a8bcf8d4dcc692
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +16,14 @@
     "type": "git",
     "url": "git+https://github.com/laczynskik/Group-Project.git"
   },
+<<<<<<< HEAD
   "author": "",
+=======
+  "keywords": [
+    "git"
+  ],
+  "author": "Karol Łączyński",
+>>>>>>> d407d2c45347e6fa904a108500a8bcf8d4dcc692
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/laczynskik/Group-Project/issues"
