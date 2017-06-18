@@ -1,0 +1,22 @@
+{
+  "name": "git_project",
+  "version": "1.0.0",
+  "description": "Git Group Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laczynskik/Group-Project.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Karol Łączyński",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laczynskik/Group-Project/issues"
+  },
+  "homepage": "https://github.com/laczynskik/Group-Project#readme"
+}
